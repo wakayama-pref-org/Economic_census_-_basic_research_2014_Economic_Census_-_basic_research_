@@ -1,4 +1,4 @@
-# Economic_census_-_basic_research_2014_Economic_Census_-_basic_research_
+# economic_census_-_basic_research_2014_economic_census_-_basic_research_
 　【和歌山県　経済センサス です。】
 ◆経済センサスとは 
 経済センサスは、事業所及び企業の経済活動の状況を明らかにし、我が国における包括的な産業構造を明らかにするとともに、事業所・企業を対象とする各種統計調査の実施のための母集団情報を整備することを目的としています。
